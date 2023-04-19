@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-I am Jason Ceballos, currently working as a Cloud Engineer. I have managed & secured IT infrastructure for a diverse range of organizations all over US. Coverage of core AWS technologies (EC2, S3, VPC, IGW), Microsoft technologies stack. (ADFS/SSO, Exchange, AD/DNS/DHCP PowerShell) Network troubleshooting and virtual network infrastructure maintenance. Also have E-mail Security experience with DMARC, SPF, and DKIM. I am currently seeking new opportunities in the Cloud. Find out more about me & feel free to connect with me here:
+I am Jason Ceballos, currently working as a Cloud Engineer. I have managed & secured IT infrastructure for a diverse range of organizations all over US. Coverage of core AWS technologies (EC2, S3, VPC, IGW), Microsoft technologies stack. (Azure, ADFS/SSO, Exchange, AD/DNS/DHCP, PowerShell) Network troubleshooting and virtual network infrastructure maintenance. Also have E-mail Security experience with DMARC, SPF, and DKIM. I am currently seeking new opportunities in the Cloud. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-JasonCeballos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/jasonceballos/)
 [![Medium Badge](https://img.shields.io/badge/jasonceballos-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@jasonceballos/)](https://medium.com/@jasonceballos)
